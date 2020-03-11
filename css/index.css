@@ -1,0 +1,74 @@
+ul.navigate {list-style-type: none; margin: 0; padding: 0; background-color:#C0C0C0;
+  overflow: hidden; border-radius: 10px;
+}
+
+li.navigate {
+  float: right;
+}
+
+li.navigate a {
+  display: block;
+  color: Black;
+  text-align: right;
+  padding: 20px 20px;
+  text-decoration: none;
+  font-weight: bold
+  font-family: Verdana;
+  font-size: 25px;
+  font-style: italic;
+
+}
+
+li.navigate a:hover {
+  color: White ;
+  background-color:DodgerBlue;
+}
+
+
+body {
+   background-image: url(images/1a.jpg);
+
+}
+  
+p{color: white}
+h1.title{color: white;
+  
+  margin-left: 80px;
+  font-style: oblique;
+}
+
+h1{color: white;
+font-family: Verdana}
+h2{color: white;}
+h3{color: white;
+font-family: cursive;}
+h4{color: white;}
+h5{color: white;}  
+
+
+
+
+img.Profile{margin-left: 550px;
+border-radius: 10%}
+button.see{color: rgb(94, 197, 0);
+border-radius: 10px;
+
+align-items: center;
+margin-left: 150px}
+
+li.now a {
+  display: block;
+  color: white;
+  text-align: right;
+  padding: 20px 20px;
+  text-decoration: none;
+  font-weight: bold
+  font-family: Verdana;
+  font-size: 25px;
+  font-style: italic;
+  
+
+}
+
+li.now a:hover {
+  color: White ;}
